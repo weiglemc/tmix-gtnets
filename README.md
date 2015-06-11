@@ -3,8 +3,10 @@
 
 The source code is available in [Releases] (https://github.com/weiglemc/tmix-gtnets/releases/).
 
+Note: The source code is delivered 'as-is', and we cannot offer any support. Code last updated June 2008.
 
 For more information on Tmix, see
+ * http://www.cs.odu.edu/~mweigle/papers/ccr06.pdf
   * http://www.cs.odu.edu/~mweigle/papers/adurthi-tmix-TR06.pdf
   * [Tmix at ODU](http://www.cs.odu.edu/~inets/Public/Tmix)
 
@@ -16,8 +18,6 @@ Known Issues:
  * Tmix needs to be able to auto-check the cvec format to accept both types (original and alternate)
 
 Other notes: http://tmix-gtnets.googlecode.com/files/tmix-and-gtnets-mar08.pdf
-
-
 
 Citation Request: If you use this in your work, please cite 
 
