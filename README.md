@@ -7,8 +7,8 @@ Note: The source code is delivered 'as-is', and we cannot offer any support. Cod
 
 For more information on Tmix, see
  * http://www.cs.odu.edu/~mweigle/papers/ccr06.pdf
-  * http://www.cs.odu.edu/~mweigle/papers/adurthi-tmix-TR06.pdf
-  * [Tmix at ODU](http://www.cs.odu.edu/~inets/Public/Tmix)
+ * http://www.cs.odu.edu/~mweigle/papers/adurthi-tmix-TR06.pdf
+ * [Tmix at ODU](http://www.cs.odu.edu/~inets/Public/Tmix)
 
 For more information on GTNetS, see http://www.ece.gatech.edu/research/labs/MANIACS/GTNetS/
 
