@@ -17,7 +17,7 @@ Known Issues:
  * Tmix needs to have the same API as ns-2 Tmix
  * Tmix needs to be able to auto-check the cvec format to accept both types (original and alternate)
 
-Other notes: http://tmix-gtnets.googlecode.com/files/tmix-and-gtnets-mar08.pdf
+Other implementation notes available at https://github.com/weiglemc/tmix-gtnets/releases/download/2008/tmix-and-gtnets-mar08.pdf
 
 Citation Request: If you use this in your work, please cite 
 
